@@ -1,7 +1,7 @@
 # Maintainer: Alexis "Horgix" Chotard <aur-murmure@foss.horgix.fr>
 
 pkgname=murmure
-pkgver=1.3.0
+pkgver=1.4.0
 pkgrel=1
 pkgdesc="Privacy-first and free Speech-to-Text"
 license=('GPL-3.0-only')
@@ -17,7 +17,7 @@ source=(
   "${_model}.zip::https://github.com/Kieirra/${pkgname}-model/releases/download/1.0.0/${_model}.zip"
 )
 sha512sums=(
-  'ceb23514c30508614793c5cb53116141e1884903c0c9fc1ff5ee9356f5b29eed9c3c03ad11d984a8b48ee489e926ecb532200265e2a74f9773a82f862562ecc7'
+  'b5dd4e59232a261eef3d40af1ff952f0b478f6a0fab94744209a6f4886f2fa94fe88aac7b8402e75a131e71fadd11ac22f4b87ee5d741086cb002fbb7ce84ed4'
   '888f6ae3e8f4f985852d57072b32c45466e081389884827f4d7a3467bac9691cded67eb4e760f900d7aeb8dfcdc1932d6c3d20e0b0e3064e63f1f9ac9d7e5d0d'
 )
 
